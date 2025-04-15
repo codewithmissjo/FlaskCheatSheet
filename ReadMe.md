@@ -75,7 +75,7 @@ return render_template('index.html', t_var='value')
 
 **html**
 ```
-<p>{{tvar}}</p>
+<p>{{t_var}}</p>
 ```
 ### Template Logic
 #### If Statements
